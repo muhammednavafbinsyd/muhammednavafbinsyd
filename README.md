@@ -1,5 +1,5 @@
 
 
-   I deveolpe websites and web aplications  
+   I create static websites and modern dynamic webapplications which i create using technologies with MERN
 
 
